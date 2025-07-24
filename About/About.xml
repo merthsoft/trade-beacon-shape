@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Trade Beacon Shapes</name>
+	<url>https://github.com/merthsoft/trade-beacon-shape</url>
+	<author>merthsoft</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>Merthsoft.DesignatorShapes.TradeBeacon</packageId>
+	<description>Adds Trade Beacon outline and fill shapes to the drawing palette.
+
+Art by Halno.</description>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Commands/Smol/trading_filled</modIconPath>
+</ModMetaData>

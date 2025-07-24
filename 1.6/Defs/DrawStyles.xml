@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <DrawStyleDef>
+    <defName>TradeBeacon</defName>
+    <label>trade bracon</label>
+    <uiIconPath>UI/Commands/Smol/trading_filled</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.TradeBeacon.Filled</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+
+  <DrawStyleDef>
+    <defName>TradeBeaconOutline</defName>
+    <label>trade beacon outline</label>
+    <uiIconPath>UI/Commands/Smol/trading_outline</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.TradeBeacon.Outline</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+</Defs>
