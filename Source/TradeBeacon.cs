@@ -52,9 +52,9 @@ public static class TradeBeacon
         }
     }
 
-    public static IEnumerable<IntVec3> Filled(IntVec3 vert1, IntVec3 vert2) 
+    public static IEnumerable<IntVec3> Filled(IntVec3 vert1) 
         => GenRadialCircle(vert1, Radius, true);
 
-    public static IEnumerable<IntVec3> Outline(IntVec3 vert1, IntVec3 vert2)
+    public static IEnumerable<IntVec3> Outline(IntVec3 vert1)
         => GenRadialCircle(vert1, Radius, false);
 }
