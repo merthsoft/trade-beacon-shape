@@ -6,6 +6,9 @@
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
+	<incompatibleWith>
+    	<li>Merthsoft.DesignatorShapes</li>
+	</incompatibleWith>
 	<packageId>Merthsoft.DesignatorShapes.TradeBeacon</packageId>
 	<description>Adds Trade Beacon outline and fill shapes to the drawing palette.
 
