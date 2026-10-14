@@ -2,7 +2,7 @@
 <Defs>
   <DrawStyleDef>
     <defName>TradeBeacon</defName>
-    <label>trade bracon</label>
+    <label>trade beacon</label>
     <uiIconPath>UI/Commands/Smol/trading_filled</uiIconPath>
     <drawStyleType>Merthsoft.DesignatorShapes.TradeBeacon.Filled</drawStyleType>
     <drawOutline>true</drawOutline>
